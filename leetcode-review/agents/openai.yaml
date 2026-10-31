@@ -1,0 +1,4 @@
+interface:
+  display_name: "LeetCode Review"
+  short_description: "从 Chrome 已解决题目生成每日 Python 算法复习"
+  default_prompt: "Use $leetcode-review to generate today's LeetCode review from my solved problems in Chrome."
